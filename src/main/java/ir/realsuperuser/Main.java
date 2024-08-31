@@ -1,3 +1,4 @@
+//TODO: add .yml config manager instead of this shit
 package ir.realsuperuser;
 
 import lombok.Getter;
