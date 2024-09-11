@@ -30,4 +30,4 @@
 
 ## Contribution Guidelines 🤝
 
-Feel free to contribute to the development of JSS. we will notice it.
+Feel free to contribute to the development of this plugin. we will notice it.
